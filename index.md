@@ -7,7 +7,7 @@ Session 1 (12pm April 10, 2025)
 - "Fields? Or Income? What Leads Online Comparative Competitions?"
   - [Yeongtaek Lim](https://ghss.kaist.ac.kr/pages/sub/sub02_03) | M.S. Student in Computational Social Science, KAIST
 - "Do Large Language Models Speak and Understand the Same Way?"
-  - [Quang Minh Ngyuyen](https://ngqm.github.io) | M.S. Student in Data Science, KAIST
+  - [Quang Minh Nguyen](https://ngqm.github.io) | M.S. Student in Data Science, KAIST
 
 Session 2 (1pm June 9, 2025)
 
