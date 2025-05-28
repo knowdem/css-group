@@ -3,7 +3,7 @@ layout: post
 title: "Special Seminar"
 ---
 
-We host special seminars featuring guest speakers from various institutions. These seminars are open to all and aim to provide insights into current research trends and methodologies in the field of computational social science.
+The Special Seminar series hosts guest speakers from various institutions. These seminars are open to all and aim to provide insights into current research trends and methodologies in the field of computational social science.
 
 
 <!-- ## Session 3 (1pm June 12, 2025) -->
