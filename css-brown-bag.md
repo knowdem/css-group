@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "CSS Brown Bag"
+title: "Brown Bag"
 ---
 
-The Computational Social Science (CSS) Brown Bag is an informal seminar series for students and researchers at KAIST and beyond who are interested in CSS. We host bi-monthly sessions featuring two student presentations. The brown bag aims to foster an inclusive and supportive community for scholarly exchange and collaboration in CSS research.
+The Brown Bag is an informal seminar series for students and researchers at KAIST and beyond who are interested in CSS. We host bi-monthly sessions featuring two student presentations. The brown bag aims to foster an inclusive and supportive community for scholarly exchange and collaboration in CSS research.
 
 
 <!-- ##  Session 2 (1pm June 9, 2025) -->
